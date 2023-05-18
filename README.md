@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm mustafe</h1>
-<h3 align="center">I'm Mustafe Suleiman, a student with a passion for cybersecurity. I'm currently learning about securing systems and applications, conducting vulnerability assessments, and developing strong security measures. I find operating systems security fascinating and enjoy exploring various cybersecurity challenges and advancements. As I continue my cybersecurity journey, I will try to actively contribute to the community by sharing my progress and projects on my GitHub page.</h3>
-<h3 align="center">When I'm not diving into the world of cybersecurity, you can find me honing my skills, playing basketball, creating beats, and enjoying video games⚡.</h3>
+<h3>I'm Mustafe Suleiman, a student with a passion for cybersecurity. I'm currently learning about securing systems and applications, conducting vulnerability assessments, and developing strong security measures. I find operating systems security fascinating and enjoy exploring various cybersecurity challenges and advancements. As I continue my cybersecurity journey, I will try to actively contribute to the community by sharing my progress and projects on my GitHub page.</h3>
+<h3>When I'm not diving into the world of cybersecurity, you can find me honing my skills, playing basketball, creating beats, and enjoying video games⚡.</h3>
 
 - 🔭 I’m currently working on **byterock**
 
